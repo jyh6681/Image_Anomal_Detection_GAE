@@ -10,7 +10,6 @@ import argparse
 import os
 from model import Dominant
 from utils import *
-from image_graph_dataset import *
 from scipy import ndimage
 import sys
 from torch_geometric.loader import DataLoader
